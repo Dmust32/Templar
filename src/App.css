@@ -1,0 +1,17 @@
+.nav-container {
+  height: 40px;
+  background-color: aliceblue
+}
+
+.landing-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px
+}
+
+.title-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center
+}
